@@ -1,0 +1,9 @@
+<mvc:View controllerName="mentoria.ka.ux420opa.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <headerContent>
+            <Button id="helloButton" text="Header Button" press="onPressTestButton"/>
+        </headerContent>
+    </Page>
+</mvc:View>
